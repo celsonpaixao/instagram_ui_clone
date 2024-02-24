@@ -1,16 +1,22 @@
-# intagram_clone
+# Instagram UI Clone
 
-A new Flutter project.
+## Pages
 
-## Getting Started
+- Login Pages
+- Main Page
 
-This project is a starting point for a Flutter application.
+## Autores
 
-A few resources to get you started if this is your first Flutter project:
+- [@celsonfernando](https://www.github.com/celsonfernand0/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Install Flutter_SVG
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The packege used in this project
+
+```bash
+  flutter pub add flutter_svg
+```
+
+## The Ui this project
+
+![App Screenshot](assets/images/10.jpg)
