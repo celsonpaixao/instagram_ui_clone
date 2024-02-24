@@ -1,0 +1,5 @@
+{
+  "dart.previewFlutterUiGuides": true,
+  "dart.flutterGenerateLocalizationsOnSave": "all",
+  "dart.previewFlutterUiGuidesCustomTracking": true
+}
